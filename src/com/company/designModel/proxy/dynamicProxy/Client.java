@@ -22,6 +22,8 @@ public class Client {
         //通过代理对象，调用目标对象方法
         proxyInstance.sayHello("姜柏宇");
         proxyInstance.play();
+
+        //git测试
     }
 
 }

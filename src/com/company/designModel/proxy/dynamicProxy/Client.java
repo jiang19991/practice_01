@@ -23,7 +23,8 @@ public class Client {
         proxyInstance.sayHello("姜柏宇");
         proxyInstance.play();
 
-        //git测试
+
+        //ceshi111
     }
 
 }

@@ -6,6 +6,7 @@ package com.company.designModel.proxy.staticProxy;
  * 缺点：因为代理对象需要与目标对象实现一样的接口，所以会有很多的代理类，一旦
  * 接口增加方法，目标对象与代理对象都需要维护
  */
+
 public class Client {
 
     public static void main(String[] args) {

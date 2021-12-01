@@ -197,6 +197,8 @@ public class Student {
                 .map(Student::getName).collect(Collectors.toList());
         System.out.println("先按分数再按年龄升序：" + sortedList3);
 
+        //测试
+
     }
 }
 

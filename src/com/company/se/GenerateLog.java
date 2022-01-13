@@ -22,5 +22,7 @@ public class GenerateLog {
             String log = "taskId=" + taskId + " shardingNum=0 WithdrawService::withdraw exectime=" + exectime + " desc=end";
             System.out.println(log);
         }
+
+        System.out.println("分支冲突测试1");
     }
 }

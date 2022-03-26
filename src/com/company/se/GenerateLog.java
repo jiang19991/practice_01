@@ -23,13 +23,16 @@ public class GenerateLog {
             System.out.println(log);
         }
 
-        System.out.println("分支冲突测试1");
 
-        System.out.println("解决分支冲突测试2");
 
 
         System.out.println("ceshi");
 
+        System.out.println("分支冲突测试0001");
+
+        System.out.println("分支冲突测试0002");
+
+        System.out.println("分支冲突测试0001");
 
     }
 }

@@ -28,7 +28,7 @@ public class GenerateLog {
         System.out.println("解决分支冲突测试2");
 
 
-        System.out.println("ceshi");
+        System.out.println("分支冲突测试11111");
 
 
     }

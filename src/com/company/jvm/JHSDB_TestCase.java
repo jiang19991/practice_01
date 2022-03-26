@@ -24,5 +24,8 @@ public class JHSDB_TestCase {
         test.foo();
 
 
+        System.out.println(111);
+
+
     }
 }

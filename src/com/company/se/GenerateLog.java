@@ -24,6 +24,7 @@ public class GenerateLog {
         }
 
         System.out.println("分支冲突测试1");
+
         System.out.println("解决分支冲突测试2");
 
 
